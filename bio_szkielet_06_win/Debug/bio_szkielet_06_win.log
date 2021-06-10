@@ -1,0 +1,19 @@
+﻿  main_file.cpp
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\OBJ_Loader.h(652,25): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\OBJ_Loader.h(689,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\OBJ_Loader.h(695,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\OBJ_Loader.h(949,18): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(130,1): warning C4005: "APIENTRY": ponowna definicja makra
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\glfw\include\GLFW\glfw3.h(123): message : zobacz poprzednią definicję „APIENTRY”
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(245,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(303,22): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(461,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(533,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(594,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(595,11): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(599,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(600,16): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(601,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(602,10): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mccv9\source\repos\bio_szkielet_06_win\main_file.cpp(1061,22): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
+  bio_szkielet_06_win.vcxproj -> C:\Users\mccv9\source\repos\bio_szkielet_06_win\Debug\bio_szkielet_06_win.exe

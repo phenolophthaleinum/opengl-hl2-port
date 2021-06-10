@@ -1,0 +1,357 @@
+# Blender MTL File: 'None'
+# Material Count: 30
+
+newmtl arbre01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\models\\props_foliage\\arbre01.png
+
+newmtl arbre01_b
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\models\\props_foliage\\arbre01.png
+
+newmtl car001a_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_vehicles\\car001a_01.png
+map_Ks materials\\models\\props_vehicles\\car001a_01_spec.png
+
+newmtl car002a_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_vehicles\\car002a_01.png
+map_Ks materials\\models\\props_vehicles\\car002a_01_spec.png
+
+newmtl car003a_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_vehicles\\car003a_01.png
+map_Ks materials\\models\\props_vehicles\\car003a_01_spec.png
+
+newmtl car004b_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_vehicles\\car004b_01.png
+map_Ks materials\\models\\props_vehicles\\car004b_01_spec4.png
+
+newmtl car005b_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_vehicles\\car005b_01.png
+map_Ks materials\\models\\props_vehicles\\car005b_01_spec.png
+
+newmtl cliff01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\cliffs\\cliff01.png
+map_Ks materials\\models\\cliffs\\cliff01_spec.png
+map_Bump materials\\models\\cliffs\\cliff01_normal.png
+
+newmtl cliff02
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\cliffs\\cliff02.png
+map_Ks materials\\models\\cliffs\\cliff02_spec.png
+map_Bump materials\\models\\cliffs\\cliff02_normal.png
+
+newmtl clifftrees_cardboard01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\cliffs\\clifftrees_cardboard01.png
+
+newmtl clifftrees_cardboard02
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\cliffs\\clifftrees_cardboard02.png
+
+newmtl concrete/concretefloor039a_cheap
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\concrete\\concretefloor039a.png
+
+newmtl concrete/concretewall004b
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\concrete\\concretewall004b.png
+
+newmtl concrete/concretewall004c
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\concrete\\concretewall004c.png
+
+newmtl concrete/concretewall008a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\concrete\\concretewall008a.png
+
+newmtl concrete/concretewall036a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\concrete\\concretewall036a.png
+
+newmtl concrete/forest_road01a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\concrete\\forest_road01a.png
+map_Ks materials/concrete/forest_road01a_spec.png
+map_Bump materials/concrete/forest_road01a_normal.png
+
+newmtl fence_trail
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_forest\\fence_trail.png
+map_Ks materials\\models\\props_forest\\fence_trail_spec.png
+map_Bump materials\\models\\props_forest\\fence_trail_normal.png
+
+newmtl forestrock_cluster02
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_foliage\\forestrock_cluster02.png
+
+newmtl grass_clusters
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_foliage\\grass_clusters.png
+map_Ks materials\\models\\props_foliage\\grass_clusters_spec.png
+
+newmtl light1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\models\\error\\new light1.png
+
+newmtl lobby_fixtures002a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_trainstation\\lobby_fixtures002a.png
+map_Ks materials\\models\\props_trainstation\\lobby_fixtures002a_spec.png
+
+newmtl nature/cliff03b
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\nature\\cliff03b.png
+map_Ks materials\\nature\\cliff03b_spec.png
+map_Bump materials\\nature\\cliff03b_normal2.png
+
+newmtl nature/cliff_path01a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\nature\\cliff_path01a.png
+map_Ks materials\\nature\\cliff_path01a_spec.png
+map_Bump materials\\nature\\cliff_path01a_normal.png
+
+newmtl nature/forest_grass_01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\nature\\forest_grass_01.png
+map_Ks materials\\nature\\forest_grass_01_spec.png
+map_Bump materials\\nature\\forest_grass_01_normal.png
+
+newmtl radio_antenna01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_radiostation\\radio_antenna01.png
+
+newmtl radio_antenna01_alpha
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_radiostation\\radio_antenna01_alpha.png
+
+newmtl rockcliff02a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\nature\\cliffface001a.png
+map_Ks materials\\nature\\cliffface001a_spec.png
+map_Bump materials\\nature\\cliffface001a_normal.png
+
+newmtl rocks02
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\cliffs\\rocks02.png
+map_Ks materials\\models\\cliffs\\rocks02_spec.png
+map_Bump materials\\models\\cliffs\\rocks02_normal.png
+
+newmtl rocks_vegetation
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\models\\cliffs\\rocks_vegetation.png

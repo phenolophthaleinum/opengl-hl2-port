@@ -1,0 +1,96 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+
+newmtl arbre01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd materials\\models\\props_foliage\\arbre01.png
+
+newmtl arbrefallen01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_foliage\\arbrefallen01.png
+
+newmtl brick/brickwall017a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\brick\\brickwall017a.png
+map_Bump materials\\brick\\brickwall017a_normal.png
+map_Ks materials\\brick\\brickwall017a_spec.png
+
+newmtl ferns01
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\cliffs\\ferns01.png
+
+newmtl forestrock_cluster02
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump materials\\models\\props_foliage\\forestrock_cluster02_normal.png
+map_Kd materials\\models\\props_foliage\\forestrock_cluster02.png
+map_Ks materials\\models\\props_foliage\\forestrock_cluster02_spec.png
+
+newmtl nature/dirtfloor006a
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump materials\\nature\\dirtfloor006a_normal.png
+map_Kd materials\\nature\\dirtfloor006a.png
+map_Ks materials\\nature\\dirtfloor006a_spec.png
+
+newmtl tree_deciduous_01a_branches
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_foliage\\tree_deciduous_01a_branches.png
+
+newmtl tree_deciduous_01a_trunk
+Ns 900.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd materials\\models\\props_foliage\\tree_deciduous_01a_trunk.png
